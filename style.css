@@ -245,7 +245,14 @@ section h4{
     margin-top: 100px;
     text-align: center;
     text-transform: uppercase;
-    
+    color: hsl(210, 4%, 67%);
+        
+        padding: 10px;
+        font-family: 'Fraunces',
+            serif;
+        letter-spacing: 4px;
+        text-align: center;
+        margin-top: 60px;
 }
 .testimonial{
     margin: 0 auto;
@@ -303,25 +310,25 @@ color: hsl(210, 4%, 67%);
     height: 400px;
 }
 .image-1{
-    background-image: url(/images/desktop/image-gallery-milkbottles.jpg);
+    background-image: url('/images/desktop/image-gallery-milkbottles.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .image-2{
-        background-image: url(/images/desktop/image-gallery-orange.jpg);
+        background-image: url('/images/desktop/image-gallery-orange.jpg');
         background-position: center center;
             background-size: cover;
             background-repeat: no-repeat;
 }
 .image-3 {
-    background-image: url(/images/desktop/image-gallery-cone.jpg);
+    background-image: url('/images/desktop/image-gallery-cone.jpg');
     background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
 }
 .image-4 {
-    background-image: url(/images/desktop/image-gallery-sugarcubes.jpg);
+    background-image: url('/images/desktop/image-gallery-sugarcubes.jpg');
     background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
@@ -750,7 +757,7 @@ footer h2{
         order: 3;
         width: 414px;
         height: 400px;
-        background-image: url(images/mobile/image-stand-out.jpg);
+        background-image: url(/images/mobile/image-stand-out.jpg);
         background-repeat: no-repeat;
         background-position: center center;
         background-size: cover;
