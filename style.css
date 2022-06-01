@@ -310,25 +310,25 @@ color: hsl(210, 4%, 67%);
     height: 400px;
 }
 .image-1{
-    background-image: url('/images/desktop/image-gallery-milkbottles.jpg');
+    background-image: url('./images/desktop/image-gallery-milkbottles.jpg');
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
 }
 .image-2{
-        background-image: url('/images/desktop/image-gallery-orange.jpg');
+        background-image: url('./images/desktop/image-gallery-orange.jpg');
         background-position: center center;
             background-size: cover;
             background-repeat: no-repeat;
 }
 .image-3 {
-    background-image: url('/images/desktop/image-gallery-cone.jpg');
+    background-image: url('./images/desktop/image-gallery-cone.jpg');
     background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
 }
 .image-4 {
-    background-image: url('/images/desktop/image-gallery-sugarcubes.jpg');
+    background-image: url('./images/desktop/image-gallery-sugarcubes.jpg');
     background-position: center center;
         background-size: cover;
         background-repeat: no-repeat;
